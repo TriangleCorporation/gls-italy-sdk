@@ -1,5 +1,5 @@
 {
-    "name": "markosirec/gls-italy-sdk",
+    "name": "trianglecorporation/gls-italy-sdk",
     "description": "PHP SDK for the GLS Italy",
     "keywords": ["ecommerce", "logistics", "gls"],
     "type": "library",
